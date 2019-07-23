@@ -1,2 +1,3 @@
 # learngit
 branches
+kolejne zmiany
